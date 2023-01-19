@@ -1,0 +1,18 @@
+body {
+    background-color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+.sub-header {
+    font-size: 14pt;
+    font-weight: lighter;
+}
+
+.content {
+    font-size: 12pt;
+}
