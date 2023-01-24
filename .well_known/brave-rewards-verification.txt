@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: henderythmix.github.io
+Token: 0e8274a794e36f8e5fe57554aba99168d8c9ca12efa5fc3a17f6f45c10f71795
