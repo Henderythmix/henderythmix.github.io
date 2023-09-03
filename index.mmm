@@ -1,0 +1,24 @@
+title ; : HrmX
+
+JS https://cdn.jsdelivr.net/npm/marked/marked.min.js
+CSS https://fonts.googleapis.com/css?family=Ubuntu
+CSS css/style.css
+
+---
+
+nav :
+ div .title #title : 
+  a href="./" ; : Henderythmix
+
+ div #content :
+  a ; : Blogs
+  a ; : Works
+
+div #portal ; :
+
+button #quick-search-button ; : quick search
+
+dialog #quick-search :
+ input ; :
+
+JS js/navigator.js

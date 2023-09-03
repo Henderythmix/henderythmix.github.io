@@ -1,0 +1,7 @@
+div .container :
+ h1 ; : Work in Progress
+ p ; : You will see how different components are available, but terribly organized (such as articles). Please be patient as everything will improve over time
+
+div .container :
+ h2 ; : What am I doing?
+ p ; : Want to see what I have been up to? <a href="./?page=article&date=Aug27_2023">Click here</a> to see my latest blog post!

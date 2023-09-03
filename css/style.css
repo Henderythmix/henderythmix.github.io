@@ -1,18 +1,73 @@
+:root {
+    --primary-bg: #222;
+    --primary-fg: #fff;
+    --secondary-fg: #f00;
+}
+
+/* The Website Engine */
+
 body {
-    background-color: #fff;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: var(--primary-bg);
+    color: var(--primary-fg);
+    font-family: Ubuntu;
+    margin: 0;
+    font-size: 18px;
+    transition: all;
+    transition-duration: 1s;
 }
 
-.header {
-    font-size: 28pt;
-    font-weight: bold;
+nav {
+    display: flex;
+    background-color: #111;
+    padding: 10px;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 3px 10px 5px #000a;
 }
 
-.sub-header {
-    font-size: 14pt;
-    font-weight: lighter;
+nav > div > a {
+    padding: 10px;
 }
 
-.content {
-    font-size: 12pt;
+nav > div > a:hover {
+    background-color: #fff3;
+}
+
+#portal {
+    padding: 20px;
+}
+
+#quick-search-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* Generic Objects */
+
+a {
+    color: var(--secondary-fg);
+}
+
+h1 {
+    padding-right: 40px;
+    padding-left: 10px;
+    border-bottom: solid 2px;
+    font-size: 2.5rem;
+}
+
+h2 {
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 10px;
+    border-bottom: solid 2px;
+}
+
+.callout {
+    margin-left: 60px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-left: solid 8px;
+    border-radius: 15px;
 }

@@ -1,1 +1,5 @@
-wip.html
+//*.mmm
+*.html
+index.html
+node_modules
+*.json

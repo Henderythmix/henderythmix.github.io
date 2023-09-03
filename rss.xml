@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>The HrmX Blog</title>
+        <link>https://henderythmix.github.io</link>
+        <description>I don't know why I run this, but this is the HrmX blog! an RSS feed that lets you stay up to date on what Engineer and Musician Roberto Selles is up to.</description>
+
+        <item>
+            <title>My Brackeys Jam 2023.2 Experience</title>
+            <description>
+                Brackeys Game Jam is a game jam hosted by the Brackeys community. Brackeys was a game developer who used to run tutorials, but has decided to stop game development to do other things; However even though things are done there, the community decided to keep things running, and the Brackeys Game Jam resumes.
+                I decided to take part in it and create my own game using C++ and Raylib, to not only pad my resume, but share what I can make in C++! And so I made Mariana's Trench - The Game.
+            </description>
+            <link>https://henderythmix.github.io/?page=article</link>
+        </item>
+    </channel>
+</rss>
