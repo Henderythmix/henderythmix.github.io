@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as r,r as c}from"./index-orEUQdtD.js";const t={},n={class:"hero"};function a(e,_){return s(),r("div",n,[c(e.$slots,"default",{},void 0)])}const f=o(t,[["render",a],["__scopeId","data-v-9384b558"]]);export{f as H};
