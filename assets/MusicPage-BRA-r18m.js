@@ -1,0 +1,1 @@
+import{H as a}from"./Hero-bDoS2odA.js";import{e as s,w as t,o,b as i,T as l,a as r}from"./index-D7l65shA.js";const d={__name:"MusicPage",setup(n){return(u,e)=>(o(),s(a,null,{default:t(()=>[i(l),e[0]||(e[0]=r("h1",null,"Part Time Musician",-1)),e[1]||(e[1]=r("div",null,"Work in Progress",-1))]),_:1}))}};export{d as default};
